@@ -14,3 +14,7 @@
 # Exercice 3
 
 - Execution de différentes requêtes.
+
+# Exercice 4
+
+- Création schéma MCD
