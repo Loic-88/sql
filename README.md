@@ -9,4 +9,8 @@
 
 # Exercice 2
 
-- Execution de différentes requêtes
+- Execution de différentes requêtes.
+
+# Exercice 3
+
+- Execution de différentes requêtes.
